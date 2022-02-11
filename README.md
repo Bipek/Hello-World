@@ -1,1 +1,1 @@
-# Biomedical Systems Modelled Through Matlab
+# Biomedical Systems Modeled Through Matlab
