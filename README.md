@@ -1,4 +1,7 @@
-# Biomedical Systems Modeled Through Matlab
+# Biomedical Systems Modelled Through Matlab
+
 Biomechanical systems
+
 Kinematic Systems
+
 Predictive systems
